@@ -27,14 +27,16 @@ UPSTASH_REDIS_REST_TOKEN=<your_redis_rest_token>
 
 ###  Enter Following Commands To Run Backend
 
-```cd backend
+```
+cd backend
 npm install
 npm run dev
 ```
 
 ###  Enter Following Commands To Front Backend
 
-```cd frontend
+```
+cd frontend
 npm install
 npm run dev
 ```
